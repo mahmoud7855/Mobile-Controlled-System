@@ -1,0 +1,7 @@
+#ifndef _ULTRA_CONFIG_H
+#define _ULTRA_CONFIG_H
+
+#define TRIG_PORT_SELECTION  PORTD
+#define TRIG_PIN_SELECTION   PIN1
+
+#endif

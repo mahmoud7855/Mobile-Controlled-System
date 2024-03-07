@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ultra_private.h": "c",
+        "bit_math.h": "c",
+        "dio_interface.h": "c",
+        "timer_interface.h": "c"
+    }
+}
